@@ -10,9 +10,6 @@ I'm an AI & ML Engineer passionate about leveraging machine learning and artific
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Other**: Docker, Kubernetes, Git, Jupyter
 
- 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwalabhang&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true)
-
 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/prajwalabhang/).
 

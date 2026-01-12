@@ -4,7 +4,7 @@ Hi, I'm Prajwal Abhang 👋
 I'm an AI & ML Engineer passionate about leveraging machine learning and artificial intelligence to solve complex problems and drive innovation. With a strong foundation in data science and machine learning, I specialize in building and deploying intelligent systems.
 
 🚀 Skills
-- **Languages**: Python, R, SQL
+- **Languages**: Python, SQL
 - **Machine Learning Frameworks**: TensorFlow, PyTorch, scikit-learn, Keras
 - **Data Science Tools**: Pandas, NumPy, Matplotlib, Seaborn
 - **Databases**: MySQL, PostgreSQL, MongoDB
